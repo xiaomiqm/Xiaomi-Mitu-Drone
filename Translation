@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+<string name="a">Navigate home</string>
+
+<string name="b">%1$s, %2$s</string>
+
+<string name="c">%1$s, %2$s, %3$s</string>
+
+<string name="d">Navigate up</string>
+
+<string name="e">More options</string>
+
+<string name="f">Done</string>
+
+<string name="g">See all</string>
+
+<string name="h">Choose an app</string>
+
+<string name="i">OFF</string>
+
+<string name="j">ON</string>
+
+<string name="k">Search...</string>
+
+<string name="l">Clear query</string>
+
+<string name="m">Search query</string>
+
+<string name="n">Search</string>
+
+<string name="o">Submit query</string>
+
+<string name="p">Voice search</string>
+
+<string name="q">Share with</string>
+
+<string name="r">Share with %s</string>
+
+<string name="s">Collapse</string>
+
+<string name="t">Search</string>
+
+<string name="u">999+</string>
+
+<string name="v">"What's Happening?"</string>
+
+<string name="w">Like Tweet</string>
+
+<string name="x">Undo Like</string>
+
+<string name="y">Loading Tweet</string>
+
+<string name="z">Log in with Twitter</string>
+
+<string name="a0">140</string>
+
+<string name="a1">pause</string>
+
+<string name="a2">play</string>
+
+<string name="a3">Tweet</string>
+
+<string name="a4">Privacy Icon</string>
+
+<string name="a5">MM/dd/yy</string>
+
+<string name="a6">MMM dd</string>
+
+<string name="a7">replay</string>
+
+<string name="a8">Retweeted by %1$s</string>
+
+<string name="a9">"Check out @%1$s's Tweet: https://twitter.com/%1$s/status/%2$s"</string>
+
+<string name="a_">Tweet from %1$s (@%2$ s)< /string>
+
+<string name="aa">Share Tweet</string>
+
+<string name="ab">This is a sponsored ad</string>
+
+<string name="ac">%1$s. %2$s. %3$s.</string>
+
+<string name="ad">Tweet Media</string>
+
+<string name="ae">sans-serif</string>
+
+<string name="af">sans-serif-medium</string>
+
+<string name="ag">sans-serif-medium</string>
+
+<string name="ah">sans-serif</string>
+
+<string name="ai">sans-serif</string>
+
+<string name="aj">sans-serif</string>
+
+<string name="ak">sans-serif</string>
+
+<string name="al">sans-serif-light</string>
+
+<string name="am">sans-serif</string>
+
+<string name="an">sans-serif</string>
+
+<string name="ao">sans-serif</string>
+
+<string name="ap">sans-serif-medium</string>
+
+<string name = "aq"> Self-flight check failed, please try restart </ string>
+
+<string name = "ar"> Self-flight check fails, please landing </ string>
+
+<string name = "as"> abnormal vibration accelerometer large </ string>
+
+<string name="at">Airstrike</string>
+
+<string name="au">Carpet Bomb</string>
+
+<string name="av">Clear</string>
+
+<string name="aw">Load</string>
+
+<string name="ax">Run</string>
+
+<string name="ay">Save</string>
+
+<string name="az">Settings</string>
+
+<string name="b0">Spaghetti</string>
+
+<string name = "b1"> Delete failure </ string>
+
+<string name = "b2"> delete successful </ string>
+
+<string name = "b3"> delete the selected file? </string>
+
+<string name = "b4"> Down </ string>
+
+<string name = "b5">% 1 $ s a video, picture sheets% 2 $ s </ string>
+
+<string name = "b6"> Selected% 1 $ s files, requires space% 2 $ s </ string>
+
+<string name = "b7"> Selected file% s </ string>
+
+<string name = "b8"> United States hand </ string>
+
+<string name = "b9"> flight slew uneven discharge, static discharge smoothly please </ string>
+
+<string name="b_">Mi8Test</string>
+
+<string name = "ba"> small remote control aircraft </ string>
+
+<string name="bb">V1.0.5.20200</string>
+
+<string name="bc"> android.support .design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+<string name="bd">@string/bf</string>
+
+<string name="be">V029SDSUBt1ONe65PS08AzKY</string>
+
+<string name="bf">V029SDSUBt1ONe65PS08AzKY</string>
+
+<string name="bg">@string/bi</string>
+
+<string name="bh">10233437</string>
+
+<string name="bi">10233437</string>
+
+<string name="bj">@string/bl</string>
+
+<string name="bk">3aad7c538037c232f8601337b1fbf61f</string>
+
+<string name="bl">3aad7c538037c232f8601337b1fbf61f</string>
+
+<string name = "bm"> Self-flight check failed, please try restart </ string>
+
+<string name = "bn"> Self-flight check fails, please landing </ string>
+
+<string name = "bo"> large fluctuations barometer </ string>
+
+<string name = "bp"> barometer tested did not pass through </ string>
+
+<string name = "bq"> flight control temperature is too low, not takeoff </ string>
+
+<string name = "br"> low battery power amount </ string>
+
+<string name = "bs"> low amount of power pools, careful </ string>
+
+<string name = "bt"> battery temperature is too high, be careful </ string>
+
+<string name = "bu"> battery temperature is too high, please drop </ string>
+
+<string name = "bv"> battery temperature is too low, replace </ string>
+
+<string name = "bw"> battery temperature is too low, please drop </ string>
+
+<string name = "bx"> severe low battery, please charge </ string>
+
+<string name = "by"> severe low battery, is automatically falling </ string>
+
+<string name="bz">cancel</string>
+
+<string name="c0"> OK </string>
+
+<string name="c1">fall </string>
+
+<string name="c2">rise</string>
+
+<string name="c3">Blockly blocks</string>
+
+<string name = "c4"> counter-clockwise </ string>
+
+<string name="c5"> clockwise </string>
+
+<string name="c6">do something</string>
+
+<string name = "c7"> relatively rapid </ string>
+
+<string name="c8">General </string>
+
+<string name="c9">Back </string>
+
+<string name = "c _" > before entering </ string>
+
+<string name = "ca"> rocker value | </ string>
+
+<string name="cb">left </string>
+
+<string name="cc">to the right </string>
+
+<string name = "cd"> slower </ string>
+
+<string name="ce">speed|</string>
+
+<string name="cf">Blocks</string>
+
+<string name="cg"> android.support .design.widget.BottomSheetBehavior</string>
+
+<string name = "ch"> Self-flight check fails, the calibration desired level </ string>
+
+<string name = "ci"> Self-flight check fails, please landing </ string>
+
+<string name="cj">Cancel </string>
+
+<string name="ck">"Can't delete the variable \"%1$s\" because it's part of the definition of the function \"%2$s\"."</string>
+
+<string name="cl">%1$d / %2$d</string>
+
+<string name = "cm"> to save power-conserving, flight will automatically shut down. </string>
+
+<string name=" com.twitter.sdk.android .CONSUMER_KEY">gA4cyvmoEzqODwurtvjJGaXyE</string>
+
+<string name=" com.twitter.sdk.android .CONSUMER_KEY_GH2">ln9AcAw39Xb2VeQzCWUBlnto1</string>
+
+<string name=" com.twitter.sdk.android .CONSUMER_SECRET">A4T5wESDtpELQB4L3IrPNnCfftSVY9rSGwwLKwrCi647s5aa4L</string>
+
+<string name=" com.twitter.sdk.android .CONSUMER_SECRET_GH2">tZXOefFH1lSOLaMff96x3YFc8osFXamYjNaetw5XpBM7m3PmP8</string>
+
+<string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+
+<string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.< /string>
+
+<string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+
+<string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+
+<string name="com_facebook_like_button_liked">Liked</string>
+
+<string name="com_facebook_like_button_not_liked">Like</string>
+
+<string name="com_facebook_loading">Loading...</string>
+
+<string name="com_facebook_loginview_cancel_action">Cancel</string>
+
+<string name="com_facebook_loginview_log_in_button">Log in</string>
+
+<string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+
+<string name="com_facebook_loginview_log_out_action">Log out</string>
+
+<string name="com_facebook_loginview_log_out_button">Log out</string>
+
+<string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+
+<string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+
+<string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.< /string>
+
+<string name="com_facebook_requesterror_permissions">This app doesn't have permission to do this. To change permissions, try logging into the app again.< /string>
+
+<string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.< /string>
+
+<string name="com_facebook_send_button_text">Send</string>
+
+<string name="com_facebook_share_button_text">Share</string>
+
+<string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+
+<string name = "cn"> the connected device has </ string>
+
+<string name = "co"> Connection failed </ string>
+
+<string name = "cp"> " connection requested typeface is   MiDroneMini_XXXXXX   of   Wi-Fi
+
+The default password is   123456789"</string>
+
+<string name = "cq"> a connection, ... </ string>
+
+<string name="cr">search </string>
+
+<string name = "cs"> select countries and regions </ string>
+
+<string name="ct">New variable</string>
+
+<string name="cu"><g id="xxx">%s</g> meters</string>
+
+<string name="cv">Today </string>
+
+<string name="cw">Delete variable...</string>
+
+<string name="cx">Delete variable %1$s and %2$d blocks using it?< /string>
+
+<string name="cy">Cancel</string>
+
+<string name="cz">Delete</string>
+
+<string name="d0">Delete variable</string>
+
+<string name = "d1"> m Rabbit small remote control aircraft </ string>
+
+<string name = "d2"> lost your cool toys, slipped fly from </ string>
+
+<string name="d3">Mijia handheld mobile cloud platform</string>
+
+<string name = "d4"> m Rabbit small remote control aircraft </ string>
+
+<string name="d5">firmware size: %1$s</string>
+
+<string name = "d6"> Please quasi-circle heart right, for three seconds to start gravity induction </ string>
+
+<string name = "d7"> Keep the phone level, behind the screen and then click and hold the right joystick to start gravity induction control </ string>
+
+<string name = "d8"> Gravity induction startup ... </ string>
+
+<string name = "d9"> flight mode </ string>
+
+<string name="d_">English</string>
+
+<string name="da"> OK </string>
+
+<string name="db"> Flying meter Id cannot be empty </string>
+
+<string name = "dc"> client process comes in handy data transfer count </ string>
+
+<string name = "dd"> MD5 check fails inspection through elite </ string>
+
+<string name = "de"> a system error, and other abnormal database </ string>
+
+<string name = "df"> Normal system response </ string>
+
+<string name = "dg"> mailbox input is too long, the maximum length can not exceed 50 </ string>
+
+<string name = "dh"> E-mail can not be null </ string>
+
+<string name = "di"> E-mail format is incorrect, please re-enter </ string>
+
+<string name="dj">The phone can't be empty </string>
+
+<string name = "dk"> two times inconsistent entered password, please re-enter the START </ string>
+
+<string name = "dl"> password can not be null </ string>
+
+<string name = "dm"> Please enter the correct number of the watch phone </ string>
+
+<string name = "dn"> secret code is incorrect, re-enter </ string>
+
+<string name = "do"> has expired codes, re-obtain </ string>
+
+<string name = "dp"> Invalid code re-obtain </ string>
+
+<string name="dq"> Account already exists </string>
+
+<string name="dr">The account does not exist </string>
+
+<string name="ds"> Verification code cannot be empty </string>
+
+<string name = "dt"> code is incorrect, please re-enter </ string>
+
+<string name = "du"> to obtain too frequent codes, please try later </ string>
+
+<string name = "dv"> you enter the wrong password several times too much, please try after 5 minutes, or try to recover passwords </ string>
+
+<string name="dw">205767510239683</string>
+
+<string name="dx">197370117714601</string>
+
+<string name = "dy"> flying posture is abnormal, careful </ string>
+
+<string name = "dz"> Movies track performance zoom focal length may affect </ string>
+
+<string name = "e0"> go system settings turn on location services </ string>
+
+<string name = "e1"> carrier fails </ string> under APK
+
+<string name = "e2"> APK download success </ string>
+
+Under <string name = "e3"> contained in </ string>
+
+<string name = "e4"> APK in Down </ string>
+
+<string name = "e5"> APP upgrade </ string>
+
+<string name = "e6"> is set to </ string>
+
+<string name = "e7"> in the phone memory does not have enough pictures </ string>
+
+<string name = "e8"> go to System Settings in the open camera / recorder privileges </ string>
+
+<string name = "e9"> go system setting information services in an open position </ string>
+
+<string name = "e _" > go system settings - rights management App open position (location) rights </ string>
+
+<string name = "ea"> go to System Settings - Rights Management in the open App store right phone storage limit </ string>
+
+<string name = "eb"> go to System Settings in the open recordings privileges </ string>
+
+<string name = "ec"> reboot in </ string>
+
+<string name = "ed"> set fails </ string>
+
+<string name = "ee"> Settings successfully </ string>
+
+<string name="ef">TF card </string>
+
+<string name="eg">Format </string>
+
+<string name = "eh"> in the phone memory insufficient recorder </ string>
+
+<string name = "ei"> upgrade </ string>
+
+<string name = "ej"> reconnecting </ string>
+
+<string name = "ek"> upgrade details </ string>
+
+<string name = "el"> upgrade fails </ string>
+
+<string name = "em"> Firmware Upgrade </ string>
+
+<string name="en">ignore </string>
+
+<string name = "eo"> l stage </ string>
+
+<string name = "ep"> Update now </ string>
+
+<string name="eq">return to the main interface </string>
+
+<string name = "er"> upgrade successfully </ string>
+
+<string name = "es"> needs new firmware upgrade </ string>
+
+<string name = "et"> upgrade is: </ string>
+
+<string name="eu"> Figure pass </string>
+
+<string name="ev">resolution </string>
+
+<string name="ew"> Video (640*480)   Photo (1600*1200) </string>
+
+<string name="ex">(480* 640)< /string>
+
+<string name="ey"> Video (1280*720)   Photo (1280*720) </string>
+
+<string name="ez">(720* 1280)< /string>
+
+<string name = "f0"> FIG pass screen display </ string>
+
+<string name="f1">cancel</string>
+
+<string name = "f2"> is unable to locate the flight, the flight careful </ string>
+
+<string name = "f3"> system with </ string>
+
+<string name = "f4"> flying position fluctuation is too large. smoothly discharge the static </ string>
+
+<string name = "f5"> Self-flight check failed, please try restart </ string>
+
+<string name = "f6"> Self-flight check fails, please landing </ string>
+
+<string name = "f7"> Please slow paddle after starting the aircraft can be thrown up, aircraft before entering the machine direction is the direction of the head. </string>
+
+<string name = "f8"> joystick mode </ string>
+
+<string name="f9">highly qualified</string>
+
+<string name = "f _" > rocker high sensitivity, flight control sensitivity of the reaction compared </ string>
+
+<string name="fa">cancel</string>
+
+<string name = "fb"> Continue Down </ string>
+
+<string name = "fc"> ago when a non-Wi-Fi network, the carrier may be produced by the flow of charge </ string>
+
+<string name = "fd"> is downloaded firmware% 1 $ s% 2 $ d </ string>
+
+<string name="fe">   Down failure </ string>
+
+<string name = "ff"> contained the complete </ string>
+
+<string name="fg">   Down Success </ string>
+
+<string name = "fh"> ago when no network, then the network connection Down </ string>
+
+<string name = "fi"> Down Tip </ string>
+
+<string name = "fj"> contained in the firmware </ string>
+
+<string name = "fk">% s firmware is downloaded </ string>
+
+<string name="fl">new firmware</string>
+
+<string name = "fm"> view details </ string>
+
+<string name = "fn"> select download the firmware requires </ string>
+
+<string name = "fo"> re-Down </ string>
+
+<string name = "fp"> Stop Down </ string>
+
+<string name = "fq"> is flying through the high temperature, carefully </ string>
+
+<string name = "fr"> flight control temperature is too low, not takeoff </ string>
+
+<string name = "fs"> Xin Tip Temperature: the password is incorrect, please re-enter </ string>
+
+<string name = "ft"> flight initialization, please wait </ string>
+
+<string name = "fu"> initialization is not completed, set the flight is stationary horizontal plane put to wait five seconds </ string>
+
+<string name = "fv"> Please enter password Wi-F </ string>
+
+<string name="fw">Japanese hand </string>
+
+<string name="fx">" when landing ,
+
+Please keep the environment free of obstructions and interference away from the crowd. "</string>
+
+<string name="fy">English</string>
+
+<string name = "fz"> Select Language </ string>
+
+<string name = "g0"> Chinese (Simplified) </ string>
+
+<string name="g1">Chinese (Traditional) </string>
+
+<string name = "g2"> Left joystick </ string>
+
+<string name = "g3"> areas: </ string>
+
+<string name = "g4"> China mainland China </ string>
+
+<string name = "g5"> After the switch servers need to log </ string>
+
+<string name = "g6"> your account before when login server has binding equipment, based on the data protection policy reasons, different product sales areas are accessible only to the appropriate data center, after the server switch, the server when the front binding device and account, will not move to a new server in the zone, Xiao-known </ string>
+
+<string name = "g7"> European </ string>
+
+<string name="g8">India</string>
+
+<string name="g9"> OK </string>
+
+<string name="g_">Other </string>
+
+<string name = "ga"> Russia </ string>
+
+<string name = "gb"> region select </ string>
+
+<string name = "gc"> region </ string>
+
+<string name = "gd"> Southeast Asia </ string>
+
+<string name = "ge"> United States </ string>
+
+<string name = "gf"> local media library </ string>
+
+<string name = "gg"> obtain codes </ string>
+
+<string name = "gh"> you enter the number of times too much for the safety, recover password </ string>
+
+<string name = "gi"> mail has been sent, please log in to view the mailbox </ string>
+
+<string name="gj"> verification code </string>
+
+<string name = "gk"> mailbox </ string>
+
+<string name="gl"> OK </string>
+
+<string name = "gm"> forget the password </ string>
+
+<string name = "gn"> Please enter PIN </ string>
+
+<string name = "go"> Please enter the phone number </ string>
+
+<string name = "gp"> Please enter password </ string>
+
+<string name = "gq"> Please enter the mailbox account </ string>
+
+<string name = "gr"> Please enter your new password </ string>
+
+<string name = "gs"> Please re-confirm your new password </ string>
+
+<string name = "gt"> twice entered password not match, please re-enter </ string>
+
+<string name = "gu"> To ensure the security of your account, please reset your password </ string>
+
+<string name = "gv"> Please install twitter </ string>
+
+<string name="gw">mobile </string>
+
+<string name = "gx"> log </ string>
+
+<string name = "gy"> immediately log </ string>
+
+<string name = "gz"> mailbox login account </ string>
+
+<string name = "h0"> mobile phone account login </ string>
+
+<string name = "h1"> log </ string>
+
+<string name = "h2"> Bintang record </ string>
+
+<string name = "h3"> Password Retrieve </ string>
+
+<string name = "h4"> Create new account </ string>
+
+<string name = "h5"> immediately registered </ string>
+
+<string name = "h6"> E-mail account registered </ string>
+
+<string name = "h7"> mobile phone account registered </ string>
+
+<string name = "h8"> Reset Password </ string>
+
+<string name = "h9"> login fails </ string>
+
+<string name="h_">s</string>
+
+<string name = "ha"> sent to the mailbox </ string>
+
+<string name = "hb"> APP will send </ string>
+
+<string name="hc"> verification code </string>
+
+<string name = "hd"> to your registered email box, please check closing note! </string>
+
+<string name = "he"> hand can touch and explore new viewing angle </ string>
+
+<string name="hf">Millet drone </string>
+
+<string name = "hg"> code is incorrect, please re-enter </ string>
+
+<string name = "hh"> rocker low sensitivity, flight control reaction generally </ string>
+
+<string name = "hi"> has reached maximum height, such as the need to adjust the height defined </ string> in the set
+
+<string name = "hj"> has reached the maximum height </ string>
+
+<string name="hk">Cancel </string>
+
+<string name = "hl"> Delete </ string>
+
+<string name = "hm"> pause </ string>
+
+<string name = "hn"> start </ string>
+
+Under <string name = "ho"> contained in% s </ string>
+
+Under <string name = "hp"> carrier failure, click Retry </ string>
+
+<string name = "hq"> has been suspended </ string>
+
+<string name="hr"> Select </string>
+
+<string name = "hs"> 0 is selected from the items </ string>
+
+<string name="ht"> select all </string>
+
+<string name="hu">all not selected </string>
+
+<string name = "hv"> is selected from one of the% 1 $ d items </ string>
+
+<string name="hw">share</string>
+
+<string name="hx">Facebook</string>
+
+<string name="hy">Instagram</string>
+
+<string name="hz">QQ</string>
+
+<string name="i0">Weibo </string>
+
+<string name="i1">Twitter</string>
+
+<string name="i2"> WeChat </string>
+
+<string name="i3">Friends circle</string>
+
+<string name="i4">Youtube</string>
+
+<string name = "i5"> oh the contents have not </ string>
+
+<string name="i6">Send</string>
+
+<string name = "i7"> rocker sensitivity is typically </ string>
+
+<string name="i8">Done</string>
+
+<string name="i9">"Modify the block's shape."</string>
+
+<string name="i_">Final "else" statement?< /string>
+
+<string name="ia">Number of "if" tests: %d</string>
+
+<string name="ib">Update if else block</string>
+
+<string name="ic">else</string>
+
+<string name="id">else if</string>
+
+<string name="ie">if</string>
+
+<string name="if">do</string>
+
+<string name="ig">with:</string>
+
+<string name="ih">%1$s with:</string>
+
+<string name="ii">Function Inputs</string>
+
+<string name="ij">New variable name</string>
+
+<string name="ik">Cancel</string>
+
+<string name="il">OK</string>
+
+<string name="im">Variable name</string>
+
+<string name="in">Close navigation drawer</string>
+
+<string name="io">Open navigation drawer</string>
+
+<string name = "ip"> network connection is not available, check the network </ string>
+
+<string name = "iq"> is loaded.    </string>
+
+<string name = "ir"> is loaded ..   </string>
+
+<string name = "is"> is loaded ... </ string>
+
+<string name = "it"> unselected file </ string>
+
+<string name="iu"> optical flow failure, please be careful </string>
+
+<string name = "iv"> Please bright texture obvious ground flight </ string>
+
+<string name = "iw"> Wen Xin Tip: not found available Wi-Fi </ string>
+
+<string name="ix">Toggle password visibility</string>
+
+<string name="iy">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,- 7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66 ,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+
+<string name="iz">M2, 4.27 L19.73, 22 L22.27, 19.46 L4.54, 1.73 L4.54, 1 L23, 1 L23, 23 L1, 23 L1, 4.27 Z </string>
+
+<string name="j0">M2, 4.27 L2, 4.27 L4.54, 1.73 L4.54, 1.73 L4.54, 1 L23, 1 L23, 23 L1, 23 L1, 4.27 Z </string>
+
+<string name="j1">M3.27, 4.27 L19.74, 20.74</string>
+
+<string name="j2">Exit </string>
+
+<string name="j3"> Check for updates </string>
+
+<string name="j4">There is a new version</string>
+
+<string name="j5"> is the latest version </string>
+
+<string name = "j6"> cache cleanup </ string>
+
+<string name="j7">Cancel </string>
+
+<string name = "j8"> exit saves all your data, do not be lost </ string>
+
+<string name="j9">Exit </string>
+
+<string name="j_">Exit prompt </string>
+
+<string name="ja">ID:%1$s</string>
+
+<string name = "jb"> to AppStore evaluation </ string>
+
+<string name = "jc"> Language </ string>
+
+<string name="jd">message notification </string>
+
+<string name = "je"> nickname </ string>
+
+<string name = "jf"> Server </ string>
+
+<string name = "jg"> Settings </ string>
+
+<string name = "jh"> UAV insurance </ string>
+
+<string name = "ji"> User protocol </ string>
+
+<string name = "jj"> privacy policy </ string>
+
+<string name="jk">version update</string>
+
+<string name = "jl"> flight control temperature is too low, not takeoff </ string>
+
+<string name = "jm"> flight control temperature is too high, not takeoff </ string>
+
+<string name = "jn"> is flying through the high temperature, carefully </ string>
+
+<string name = "jo"> flying too high temperature is quickly, land </ string>
+
+<string name = "jp"> is flying through the high temperature, is automatically falling </ string>
+
+<string name="jq">Add argument</string>
+
+<string name="jr">Delete argument</string>
+
+<string name="js">Argument name</string>
+
+<string name="jt">Argentina</string>
+
+<string name = "ju"> Burma </ string>
+
+<string name = "jv"> European </ string>
+
+<string name = "jw"> France </ string>
+
+<string name="jx">India</string>
+
+<string name="jy">Indonesia</string>
+
+<string name="jz">Iran </string>
+
+<string name = "k0"> China mainland China </ string>
+
+<string name = "k1"> Malaysia </ string>
+
+<string name="k2">Mexico </string>
+
+<string name = "k3"> Philippine </ string>
+
+<string name = "k4"> Portland </ string>
+
+<string name = "k5"> Russia </ string>
+
+<string name="k6">Saudi </string>
+
+<string name="k7">Singapore</string>
+
+<string name="k8">Slovakia </string>
+
+<string name="k9">Spain</string>
+
+<string name = "k _" > Thailand </ string>
+
+<string name = "ka"> United States </ string>
+
+<string name="kb">Turkey</string>
+
+<string name = "kc"> Ukraine </ string>
+
+<string name = "kd"> UAE </ string>
+
+<string name="ke">Vietnam</string>
+
+<string name = "kf"> Taiwan </ string>
+
+<string name = "kg"> E-mail can not be null </ string>
+
+<string name = "kh"> codes obtain failed, please try again </ string>
+
+<string name = "ki"> E-mail format is incorrect, please re-enter </ string>
+
+<string name = "kj"> Please enter the correct phone number </ string>
+
+<string name = "kk"> that you have read and agree to fly m </ string>
+
+<string name = "kl"> User protocol </ string>
+
+<string name="km"> and </string>
+
+<string name = "kn"> privacy policy </ string>
+
+<string name = "ko"> , your phone number will be as privacy, will not be publicly displayed. </string>
+
+<string name = "kp"> , your mailbox will account as privacy, will not be publicly displayed. </string>
+
+<string name = "kq"> logged in, you agree to abide by fly-meter </ string>
+
+<string name = "kr"> Registration </ string>
+
+<string name="ks"> Verification code cannot be empty </string>
+
+<string name="kt">Rename variable...</string>
+
+<string name="ku">Rename variable from %s</string>
+
+<string name = "kv"> Right joystick </ string>
+
+<string name = "kw"> rescan </ string>
+
+<string name = "kx"> memory space is full </ string>
+
+<string name = "ky"> save storage space between the full </ string>
+
+<string name="kz">high </string>
+
+<string name="l0">low </string>
+
+<string name="l1">中</string>
+
+<string name = "l2"> rocker sensitivity </ string>
+
+<string name = "l3"> When the height is defined as before   </string>
+
+<string name = "l4"> actual flying height may have errors ± 0.5 m, please note. </string>
+
+<string name="l5">Cancel </string>
+
+<string name = "l6"> lis </ string>
+
+<string name = "l7"> Self-flight check fails, the calibration need hexahedral </ string>
+
+<string name = "l8"> Self-flight check fails, please landing </ string>
+
+<string name="l9">Copyright © 2017-2018 Fimi,All Rights Reserved.< /string>
+
+<string name="l_">splash_icon</string>
+
+<string name = "la"> Stop connection </ string>
+
+<string name = "lb"> enter the device </ string>
+
+<string name = "lc"> apparatus main page </ string>
+
+<string name = "ld"> " flight will fly to the starting   1M   High, keep the flying environment
+
+Without interference and obstructions away from the crowd, the first direction is the aircraft before entering the machine direction. "</string>
+
+<string name = "le"> immediately takeoff </ string>
+
+<string name = "lf"> enter the new password (8-16 bit word) </ string>
+
+<string name="lg">Section 1</string>
+
+<string name="lh">Section 2</string>
+
+<string name="li">Section 3</string>
+
+<string name="lj">"Couldn't find saved workspace."</string>
+
+<string name="lk">Failed to load workspace.< /string>
+
+<string name="ll">"Couldn't save workspace."</string>
+
+<string name="lm">Saved workspace contents.< /string>
+
+<string name="ln">Traditional </string>
+
+<string name="twitter_CONSUMER_KEY">CONSUMER_KEY</string>
+
+<string name="twitter_CONSUMER_SECRET">CONSUMER_SECRET</string>
+
+<string name="lo">59b896ba1c5dd03915000025</string>
+
+<string name="lp">59b896ba1c5dd03915000025</string>
+
+<string name = "lq"> ultra-sonic testing is not complete </ string>
+
+<string name="umeng_example_home_btn_plus">social sharing</string>
+
+<string name="umeng_socialize_cancel_btn_str">Cancel </string>
+
+<string name = "umeng_socialize_content_hint"> What say something ... </ string>
+
+<string name="umeng_socialize_female">female </string>
+
+<string name = "umeng_socialize_mail"> mail </ string>
+
+<string name="umeng_socialize_male">Male </string>
+
+<string name = "umeng_socialize_send_btn_str"> send </ string>
+
+<string name="umeng_socialize_share">Share </string>
+
+<string name="umeng_socialize_sharetodouban">Share to Douban</string>
+
+<string name = "umeng_socialize_sharetolinkin"> Share LinkedIn </ string>
+
+<string name = "umeng_socialize_sharetorenren"> Share renren </ string>
+
+<string name="umeng_socialize_sharetosina">Share to Sina Weibo</string>
+
+<string name="umeng_socialize_sharetotencent">Share to Tencent Weibo </string>
+
+<string name="umeng_socialize_sharetotwitter">Share to twitter</string>
+
+<string name="umeng_socialize_sina">Sina</string>
+
+<string name="umeng_socialize_sms">SMS </string>
+
+<string name = "umeng_socialize_text_add_custom_platform"> configure internet user </ string>
+
+<string name="umeng_socialize_text_alipay_key"> Alipay </string>
+
+<string name="umeng_socialize_text_dingding_key"> nail </string>
+
+<string name="umeng_socialize_text_douban_key">Douban </string>
+
+<string name="umeng_socialize_text_dropbox_key">DropBox</string>
+
+<string name="umeng_socialize_text_evernote_key">Impression notes </string>
+
+<string name="umeng_socialize_text_facebook_key">Facebook</string>
+
+<string name="umeng_socialize_text_facebookmessager_key">Facebook Messager</string>
+
+<string name="umeng_socialize_text_flickr_key">Flickr</string>
+
+<string name="umeng_socialize_text_foursquare_key">Foursquare</string>
+
+<string name="umeng_socialize_text_googleplus_key">GooglePlus</string>
+
+<string name="umeng_socialize_text_instagram_key">Instagram</string>
+
+<string name="umeng_socialize_text_kakao_key">KakaoTalk</string>
+
+<string name = "umeng_socialize_text_laiwangdynamic_key"> little insect dynamic </ string>
+
+<string name="umeng_socialize_text_line_key">LINE</string>
+
+<string name="umeng_socialize_text_linkedin_key"> Linkedin</string>
+
+<string name="umeng_socialize_text_more_key">More </string>
+
+<string name="umeng_socialize_text_pinterest_key">Pinterest</string>
+
+<string name="umeng_socialize_text_pocket_key">Pocket</string>
+
+<string name="umeng_socialize_text_qq_key">QQ</string>
+
+<string name = "umeng_socialize_text_qq_zone_key"> QQ space between </ string>
+
+<string name="umeng_socialize_text_renren_key">人人 网 </string>
+
+<string name="umeng_socialize_text_sina_key">微博</string>
+
+<string name="umeng_socialize_text_tencent_key"> Tencent Weibo </string>
+
+<string name="umeng_socialize_text_tumblr_key">Tumblr</string>
+
+<string name="umeng_socialize_text_twitter_key">Twitter</string>
+
+<string name="umeng_socialize_text_vkontakte_key">VKontakte</string>
+
+<string name="umeng_socialize_text_waitting_share">Shared...</string>
+
+<string name="umeng_socialize_text_weixin_circle_key">WeChat friends circle</string>
+
+<string name="umeng_socialize_text_weixin_fav_key">WeChat collection </string>
+
+<string name="umeng_socialize_text_weixin_key">WeChat </string>
+
+<string name="umeng_socialize_text_wenxin_fav">WeChat collection </string>
+
+<string name="umeng_socialize_text_whatsapp_key">WhatsApp</string>
+
+<string name="umeng_socialize_text_ydnote_key">have a cloud note </string>
+
+<string name="umeng_socialize_text_yixin_key">Easy letter </string>
+
+<string name="umeng_socialize_text_yixincircle_key">Easy friend circle </string>
+
+<string name = "lr"> immediately connected   </string>
+
+<string name = "ls"> flight adapter is plugged into the USB, i.e., the shutdown </ string>
+
+<string name = "lt"> connection </ string>
+
+<string name = "lu"> reconnecting </ string>
+
+<string name="lv">Wi-Fi   Searching...</string>
+
+<string name = "lw"> set successfully, and then restart the flight is connected </ string>
+
+<string name="lx">Wi-Fi management</string>
+
+<string name = "ly"> followed connected Wi-Fi device display name </ string>
+
+<string name="lz">Wi-Fi   Connected </ string>
+
+<string name = "m0"> Exit album download will stop all tasks </ string>
+
+<string name = "m1"> Machine Head Camera </ string>
+
+<string name = "m2"> Power press key </ string>
+
+<string name="m3"> tail </string>
+
+<string name="m4" >.< /string>
+
+<string name = "m5"> start </ string>
+
+<string name = "m6"> the small aircraft complete set of Bahrain, to the space between the open free to explore the fun of flying it! </string>
+
+<string name = "m7"> small test line </ string>
+
+<string name = "m8"> infrared Battle </ string>
+
+<string name = "m9"> in the infrared battle mode, the user can control through an interface of-sight sight other small aircraft and initiates attack. When the position of the machine head effectively combat aircraft or the target is hit by the tail, in which the body and reduce blood jitter. When a blood drop is 0, infrared battle ends. </string>
+
+Effective combat between <string name = "m _" > two sets of small aircraft the distance of 5 meters. </string>
+
+<string name = "ma"> " push rocker front right, front flight Intake; pulled backwards, flight control
+
+Back; push left, flight, left to fly; push the right, flight control
+
+Fly right . "</string>
+
+<string name = "mb"> Right rocker (USA hand) </ string>
+
+<string name = "mc"> when a small aircraft for takeoff, landing, make sure it </ string>
+
+<string name="md" >. Arrow direction as indicated in FIG i.e. towards the tail. </string>
+
+<string name = "me"> takeoff landing </ string>
+
+<string name = "mf"> tail toward the user </ string>
+
+<string name = "mg"> Safety on </ string>
+
+<string name = "mh"> Gravity induction mode </ string>
+
+<string name = "mi"> Open gravity induction control function to control the phone through the posture to achieve control of flying direction of the small airplane. </string>
+
+<string name = "mj"> enter the gravity sensor should be controlled to maintain the horizontal state mode handsets and press the right side of the long handle to tilt the phone body in any direction, the small aircraft with the direction of the corresponding flight. If there is no click-screen operating small aircraft will stop automatically suspended. </string>
+
+<string name="mk"> headless mode </string>
+
+<string name = "ml"> small aircraft after take-off mode is selected without a head, taken on this small image toward the aircraft will head to be locked in the forward flight direction. </string>
+
+<string name = "mm"> in endless mode, even a small aircraft rotating machine hair green, which flying direction will not occur with the change careful control. </string>
+
+<string name = "mn"> 1. Power key: press the power key until </ string>
+
+<string name="mo">"The bottom orange light is on
+
+Switched "</ string>
+
+<string name="mp">tails towards themselves</string>
+
+<string name = "mq"> prepared </ string> before takeoff
+
+<string name = "mr"> 2. takeoff, landing: Make sure </ string>
+
+<string name = "ms"> skip </ string>
+
+<string name="mt">tail </string>
+
+<string name = "mu"> Do not machine in the field, densely populated and other policy regulations prohibited areas flight. Make sure that the human small aircraft during flight with a surrounding, animals, trees, buildings and vehicles to maintain a certain distance in order to prevent high speed rotation of the propeller caused damage. </string>
+
+<string name = "mv"> The identifier of orange propeller motor shaft is attached to the identification of an orange, and by pressing into place (root of motor shaft position of about 0.2mm) </ string>
+
+<string name="mw">My location</string>
+
+<string name = "mx"> cut-fly zone, flying is prohibited </ string>
+
+<string name = "my"> select the optical line well, ground grain processing clear clarity and no wind the ring under environmental feed line fly line. </string>
+
+<string name = "mz"> orange identified as Example installation. </string>
+
+<string name="n0">action </string>
+
+<string name = "n1"> , Concept observed small flying machine </ string>
+
+<string name = "n2"> , Concept observed small flying machine; </ String>
+
+<string name = "n3"> rocking lever </ string>
+
+<string name = "n4"> An mounted paddle blade </ string>
+
+<string name = "n5"> Left rocker bar (US Guo hand) </ String>
+
+<string name = "n6"> Right rocker bar (US Guo hand) </ String>
+
+<string name="n7">/</string>
+
+<string name="n8">left </string>
+
+<string name="n9">to the right </string>
+
+<string name="n_">back </string>
+
+<string name = "na"> front inlet </ string>
+
+<string name="nb">" clockwise
+
+Spin turn "</ string>
+
+<string name = "nc"> " Inverse clockwise
+
+Spin turn "</ string>
+
+<string name="nd">fall </string>
+
+<string name="ne">rise</string>
+
+<string name="nf">calibration completed </string>
+
+<string name = "ng"> Exit will the broken calibration </ string>
+
+<string name = "nh"> temperature Xin Tip </ string>
+
+<string name = "ni"> Calibration failure fails </ string>
+
+<string name="nj">recalibration</string>
+
+<string name = "nk"> opening start calibration </ string>
+
+<string name="nl">calibration success </string>
+
+<string name = "nm"> Calibration when , please holder flight circulator level calming place, in order to avoid shadow affect calibration junction results </ string>
+
+<string name = "nn"> before the calibration request to connect connect the fly line is </ string>
+
+<string name = "no"> to ensure safety, the fly line when not calibrate </ string>
+
+<string name = "np"> acceleration heterologous often can not be calibrated, try to re- start </ string>
+
+<string name="nq">Calibration...</string>
+
+<string name = "nr"> select your play fly way </ string>
+
+<string name = "ns"> When the front office to ban fly zone , not from flying </ string>
+
+<string name="nt">04dda2bcab411e03c41bebea49f8911c</string>
+
+<string name = "nu"> Please connect to pick you a fly line is </ string>
+
+<string name = "nv"> device is not connected connected </ string>
+
+<string name = "nw"> " you are the fly line is not from flying or
+
+Stopped fly line, please check your the fly line is the state "</ string>
+
+<string name = "nx"> run line end stop </ string>
+
+<string name = "ny"> Executive line through process you can immediately junction beam perform operative </ string>
+
+<string name = "nz"> Please empty desert the field to feed row programmed processes experimental and control </ string>
+
+<string name = "o0"> construction proposed to feed line simply the programmed path, about each mold block parameters provided opposite operation line mode and then into the line complex encoding process </ string>
+
+<string name = "o1"> Please Aberdeen fine you check the programmed path logic and the fly line is the state after execution OK </ string>
+
+<string name = "o2"> Check your a programmed path logic </ string>
+
+<string name = "o3"> Unable to execute the line </ string>
+
+<string name = "o4"> Check your a programmed path logic and flight circulator Status </ string>
+
+<string name = "o5"> run line ultra when </ string>
+
+<string name="o6"> meters </string> 
+
+<string name = "o7"> Exit tour play </ string>
+
+<string name = "o8"> Pick war lost lost , whether to re- open start? </string>
+
+<string name = "o9"> re- opening start </ string>
+
+<string name="o_">landing</string>
+
+<string name="oa">hand landing </string>
+
+<string name = "ob"> Li i.e. Landing </ string>
+
+<string name="oc"> Select your landing method </string>
+
+<string name="od">2.0 meters </string>
+
+<string name="oe">25.0 meters</string>
+
+<string name = "of"> i.e. the land </ string>
+
+<string name = "og"> i.e. the starting fly </ string>
+
+<string name = "oh"> " Open No head back mode,
+
+When the front machine head toward i.e. to the front feed direction,
+
+Even if the machine Hair Health spin turn ,
+
+Before feeding direction still does not change , please be careful fly line. "</string>
+
+<string name = "oi"> temperature Xin Tip </ string>
+
+<string name = "oj"> FIG image eligible taken in ... </ string>
+
+<string name = "ok"> slide movable Landing </ string>
+
+<string name = "ol"> slide movable from fly </ string>
+
+<string name="om">camera </string>
+
+<string name = "on"> local phase album </ string>
+
+<string name = "oo"> Fly circulator fly line when not modify the Wi-Fi name of called or cipher code </ string>
+
+<string name = "op"> non- connected connection devices </ string>
+
+<string name = "oq"> could not eligible accessible to Wi-Fi secret code , built proposed re- attached </ string>
+
+<string name = "or"> primer novice pilot </ string>
+
+<string name="os">horizontal calibration</string>
+
+<string name="ot">horizontal calibration</string>
+
+<string name="ou"> six-sided calibration </string>
+
+<string name="ov">camera </string>
+
+<string name = "ow"> custom -defined operating </ string>
+
+<string name="ox">good</string>
+
+<string name = "oy"> firmware upgrade level </ string>
+
+<string name="oz">FAQ</string>
+
+<string name="p0"> gallery </string>
+
+<string name="p1">highly qualified</string>
+
+<string name="p2"> is the latest version </string>
+
+<string name="p3"> Found new version </string>
+
+<string name = "p4"> rocking lever spirit sensitivity </ string>
+
+<string name = "p5"> cut transducer rocker lever mode </ string>
+
+<string name = "p6"> arranged opposite </ string>
+
+<string name = "p7"> firmware upgrade level </ string>
+
+<string name="p8">Wi-Fi-fixed frequency </string>
+
+<string name="p9">Wi-Fi management</string>
+
+<string name = "p _" > failed to obtain take to the Wi-Fi name says , the construction proposed re- connect </ string>
+
+<string name="pa">2.4G</string>
+
+<string name="pb">5.8G</string>
+
+<string name="pc">I have read and understood </string>
+
+<String name = "pd"> " 1. Please follow your location area of when the law to use 5.8Gwifi letter No. frequency segment
+
+2. Make sure that your phone supports 5.8Gwifi letter No. frequency segment, whether the cut change after you can not search the device 's wifi letter No.
+
+3. mistakenly cutting transducer after not search apparatus wifi, please press device opening machine press button eight times recovery multiplexing the factory setting means ( 0.5 seconds / second or 1 second / second) "</ string>
+
+<string name = "pe"> temperature Xin Tip </ string>
+
+<string name = "pf"> Wi-Fi frequency segment </ string>
+
+<string name = "pg"> ( Tip: Press small flying machine opening machine press the button 8 can restore multiplexing a plant located opposite ) </ string>
+
+<string name = "ph"> Palm from flying </ string>
+
+<string name = "pi"> Li i.e. from fly </ string>
+
+<string name = "pj"> lost pictures lost </ string>
+
+<string name="pk">Photographing completed </string>
+
+<string name = "pl"> TF card isobutyl often, please re- start fly circulator </ string>
+
+<string name = "pm"> Format failure fails </ string>
+
+<string name = "pn"> after formatting will be cleared except TF card within all files </ string>
+
+<string name = "po"> successful format, i.e., the re- start fly circulator </ string>
+
+<string name = "pp"> opening start liter level </ string>
+
+<string name="pq">:</string>
+
+<string name = "pr"> re- connect connection </ string>
+
+<string name = "ps"> When the current version: flight control % 1 $ s, MCU% 2 $ s, AP% 3 $ s </ string>
+
+<string name = "pt"> L -level details of the situation </ string>
+
+<string name = "pu"> requested to connect connection flight circulator, up another level </ string>
+
+<string name = "pv"> Fly circulator temperature of too high, not L -level </ string>
+
+<string name = "pw"> to ensure safety, fly line when unable liter level </ string>
+
+<string name = "px"> fly line is electric insufficient amount, please charge power after liter level </ string>
+
+<string name = "py"> L -level failure fails </ string>
+
+<string name = "pz"> firmware upgrade level </ string>
+
+<string name="q0">firmware size: %1$s</string>
+
+<string name="q1">N/A</string>
+
+<string name="q2"> latest version: </string>
+
+<string name="q3">AP %s</string>
+
+<string name="q4">:</string>
+
+<string name="q5">, </string>
+
+<string name="q6"> Flight control %s</string>
+
+<string name="q7">MCU %s</string>
+
+<string name = "q8"> Quasi prepare L -level </ string>
+
+<string name="q9">, </string>
+
+<string name = "q _" > L level to complete the </ string> 
+
+<string name = "qa"> L level successful </ string> 
+
+<string name = "qb"> l need new firmware level </ string>
+
+<string name = "qc"> You are flying machine has the latest firmware, without the need liter level </ string>
+
+<string name="qd"> OK </string>
+
+<string name = "qe"> L -level </ string>
+
+<string name = "qf"> " Temperature Xin Tip: lift stage through the process , please holding APP, flight circulator
+
+Even then normal, and maintaining electrical adequate amount. "</string>
+
+<string name = "qg"> is L level % s firmware </ string>
+
+<string name = "qh"> recorded image failure fails </ string>
+
+<string name = "qi"> recorded as complete </ string>
+
+<string name="qj">Save </string>
+
+<string name = "qk"> Wi-Fi name called </ string>
+
+<string name = "ql"> Wi-Fi cipher code </ string>
+
+<string name="qm">Wi-Fi management </string>
+
+<string name = "qn"> connected connection device after significant shows Wi-Fi cipher code </ string>
+
+</resources>
